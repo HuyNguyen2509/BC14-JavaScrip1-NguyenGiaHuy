@@ -1,0 +1,4 @@
+cd: di chuyển
+ls: liệt kê
+
+git clone: tải source code về
